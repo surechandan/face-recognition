@@ -21,6 +21,7 @@ Dataset split:
 270 images (60%) for training
 180 images (40%) for testing
 Images are organized person-wise in folders.
+
 METHODOLOGY:
 Load and preprocess face images
 Convert images into vector form
